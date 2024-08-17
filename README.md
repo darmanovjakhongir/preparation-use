@@ -2,7 +2,7 @@
 
 ## Description
 
-Welcome to Preparation for the USE This project is designed to [briefly describe the purpose of your project, e.g., "provide a comprehensive platform for learning and managing educational courses"]. It features a modern, responsive design with various sections including a hero section, pricing plans, reviews, and more.
+Welcome to Preparation for the USE This project is designed to. It features a modern, responsive design with various sections including a hero section, pricing plans, reviews, and more.
 
 ## Features
 
